@@ -9,6 +9,7 @@
 - JavaScript
 - SASS
 - Jquery 
+- stylelint
 
 ## Live Demo
 
